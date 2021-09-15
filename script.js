@@ -25,7 +25,7 @@ var CHARACTER_PRONOUNCIATIONS = {
 };
 
 var WORDS = [
-    "aasi", "aita", "amme", "appelsiini", "aurinko", "auto", "amanda", "appelsiini", "ananas",
+    "aasi", "aita", "amme", "appelsiini", "aurinko", "auto", "amanda", "appelsiini", "ananas", "atomi",
     "banaani", "banaani", "banaani", "blimpsisblömpsis böbberöö",
     "celsius", "cowboy",
     "delfiini", "dinosaurus", "donitsi",
@@ -37,7 +37,7 @@ var WORDS = [
     "jekku", "jeti", "jalkapallo", "jakkara", "jukurtti", "ju-na", "jänis", "jäätelö",
     "kakku", "kameli", "karkki", "kello", "kivi", "kiivi", "kilpikonna", "kuppi", "karhu", "koira", "käärme", "kala",
     "kana", "kesä", "kevät", "kirsikka", "koko", "kumi", "kännykkä",
-    "lamppu", "lapsi", "lasi", "lautanen", "leijona", "leikki", "lentokone", "liukumäki", "lohi", "lohikäärme", "lyhty", "lintu", "logo",
+    "lamppu", "lapsi", "lasi", "lautanen", "leijona", "leikki", "lentokone", "liukumäki", "lohi", "lohikäärme", "lyhty", "lintu", "logo", "lörtsy",
     "makkara", "mansikka", "makarooni", "mulan", "mopo", "myyrä", "muurahainen", "möhköfantti", "mörkö","mamma",
     "naru", "nökö", "nalle", "nakupelle", "nenä", "norsu", "näk'käri",
     "orava", "omena", "okko", "oja",
